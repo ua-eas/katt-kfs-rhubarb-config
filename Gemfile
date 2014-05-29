@@ -2,7 +2,7 @@ source 'http://rubygems.org'
 
 
 group :deploy do
-  gem 'capistrano', '~> 3.0.0.pre13'
+  gem 'capistrano', '~> 3.2.0'
 end
 
 
