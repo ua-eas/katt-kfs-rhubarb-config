@@ -1,4 +1,5 @@
 ---
+ARL_BILLING_ADDRESS: arlbilling@list.arizona.edu
 BOOKSTORE_ADDRESS: uabks-kuali@list.arizona.edu
 BUDGET_OFFICE_EMAIL: bdgt-budgetoffice@email.arizona.edu
 CHECK_CONTROL_ADDRESS: checkcontrol@fso.arizona.edu
@@ -36,4 +37,5 @@ SCOTT_SKINNER_ADDRESS: sskinner@email.arizona.edu
 SPONSER_ADDRESS: sponsor@email.arizona.edu
 UA_CENTRAL_RECEIVING_ADDRESS: pacs-centralreceiving
 UA_CUSTOMS_ADDRESS: uaecustoms@fso.arizona.edu
+URIC_BILLING_ADDRESS: uricbilling@list.arizona.edu
 WINKLE_P_ADDRESS: winklep@email.arizona.edu
